@@ -38,10 +38,14 @@ a {
 .name {
   margin-bottom: 40px;
   color: #47bec7;
-  font-size: 16px;
+  /*font-size: 16px;*/ BA edit
+  font-size: 26px;
   line-height: 100%;
   letter-spacing: 1px;
   text-transform: uppercase;
+  /* override font - BA edit */
+  font-family: Lora, sans-serif;
+  
 }
 
 .bold-text {
@@ -51,13 +55,14 @@ a {
 .tagline {
   margin-bottom: 40px;
   color: #ddd;
-  font-size: 58px;
+  /*font-size: 58px;*/
+  font-size: 26px;
   line-height: 100%;
 }
 
 .bio {
   margin-bottom: 40px;
-  font-family: Lora, sans-serif;
+  /*font-family: Lora, sans-serif;*/
   color: #848d96;
   font-size: 21px;
   line-height: 140%;
