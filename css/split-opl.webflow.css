@@ -9,6 +9,7 @@ a {
   max-height: 100vh;
   background-color: #0b1c2f;
   font-family: Inter, sans-serif;
+  color: #ddd;
 }
 
 .leftcontent {
@@ -37,7 +38,7 @@ a {
 
 .name {
   margin-bottom: 40px;
-  color: #47bec7;
+  /*color: #47bec7;*/ BA edit
   /*font-size: 16px;*/ BA edit
   font-size: 26px;
   line-height: 100%;
@@ -54,7 +55,7 @@ a {
 
 .tagline {
   margin-bottom: 40px;
-  color: #ddd;
+  /*color: #ddd;*/
   /*font-size: 58px;*/
   font-size: 26px;
   line-height: 100%;
@@ -63,7 +64,7 @@ a {
 .bio {
   margin-bottom: 40px;
   /*font-family: Lora, sans-serif;*/
-  color: #848d96;
+  /*color: #848d96;*/
   font-size: 21px;
   line-height: 140%;
 }
