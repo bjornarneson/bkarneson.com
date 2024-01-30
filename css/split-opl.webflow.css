@@ -38,8 +38,8 @@ a {
 
 .name {
   margin-bottom: 40px;
-  /*color: #47bec7;*/ BA edit
-  /*font-size: 16px;*/ BA edit
+  /*color: #47bec7;  BA edit*/
+  /*font-size: 16px; BA edit*/
   font-size: 26px;
   line-height: 100%;
   letter-spacing: 1px;
@@ -57,6 +57,7 @@ a {
   margin-bottom: 40px;
   /*color: #ddd;*/
   /*font-size: 58px;*/
+  font-family: Lora, sans-serif;
   font-size: 26px;
   line-height: 100%;
 }
