@@ -95,7 +95,7 @@ a {
 
 .rightcontent {
   overflow: auto;
-  padding: 100px;
+  padding: 60px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -180,11 +180,6 @@ a {
     display: block;
   }
 
-  .rightcontent {
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
-
   .links {
     display: -webkit-box;
     display: -webkit-flex;
@@ -220,7 +215,7 @@ a {
   }
 
   .rightcontent {
-    padding: 60px;
+    padding: 30px;
   }
 }
 
@@ -243,7 +238,7 @@ a {
   }
 
   .rightcontent {
-    padding: 30px;
+    padding: 20px;
   }
 
   .image {
