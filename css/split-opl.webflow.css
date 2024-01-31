@@ -224,8 +224,10 @@ a {
 
 @media screen and (max-width: 479px) {
   .bold-text {
+    /*
     font-size: 42px;
     line-height: 42px;
+    */
   }
 
   .bio {
