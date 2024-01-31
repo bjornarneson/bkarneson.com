@@ -232,6 +232,8 @@ a {
     */
   }
 
+  .name,
+  .tagline,
   .bio {
     font-size: 16px;
   }
