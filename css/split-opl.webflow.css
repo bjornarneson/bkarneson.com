@@ -162,7 +162,8 @@ a {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/brittany_photo_bw_cropped.jpg');
+  /*background-image: url('../images/brittany_photo_bw_cropped.jpg');*/
+  background-image: url('../images/baka_headshot_bw.jpg');
   background-position: 50% 50%;
   background-size: cover;
   -o-object-fit: cover;
